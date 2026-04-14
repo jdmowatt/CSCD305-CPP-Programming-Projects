@@ -1,0 +1,8 @@
+Program prompts for a number of students
+Input validation accepts a positive integer
+Reprompts on -2, a, 57h, \n, etc.
+
+Program then prompts for the scores for each student
+Input validation only accepts double values, reprompts invalid values
+
+Program then calculates the minimum, maximum and average score
