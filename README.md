@@ -9,3 +9,5 @@ Assignment 4: Created a Graph of a map of cities with coordinates using various 
 Assignment 5: Created a bunch of shape classes and functions using inheritance and polymorphism.
 
 Assignment 6: Created a Linked List Information Repository using templates for variable data types.
+
+Assignment 7: Reworked a Doubly Linked List using smart pointers for better memory management, eliminating the need for a deletion function.
